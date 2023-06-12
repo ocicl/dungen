@@ -1,0 +1,10 @@
+* dungen
+
+Mirror of https://git.mfiano.net/mfiano/dungen
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/dungen.git   |
+| commit  | {"messa  |
+| systems | dungen |
+|---------+-------------------------------------------|
+
